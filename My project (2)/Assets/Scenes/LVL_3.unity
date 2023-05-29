@@ -804,7 +804,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1ff7fbb04c9ba1b428ccc385e8a36691, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  number: 3
+  number: 4
 --- !u!58 &479180432
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -2235,7 +2235,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1ff7fbb04c9ba1b428ccc385e8a36691, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  number: 2
+  number: 3
 --- !u!58 &1010360289
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -2815,7 +2815,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1ff7fbb04c9ba1b428ccc385e8a36691, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  number: 1
+  number: 2
 --- !u!58 &1403045104
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -3730,7 +3730,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6791c5932083cc6429546cbfa51f0304, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 60
+  speed: 30
   up: 1
 --- !u!50 &1772721584
 Rigidbody2D:
@@ -4260,7 +4260,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1ff7fbb04c9ba1b428ccc385e8a36691, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  number: 0
+  number: 1
 --- !u!58 &1877758146
 CircleCollider2D:
   m_ObjectHideFlags: 0
