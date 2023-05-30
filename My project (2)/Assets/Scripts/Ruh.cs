@@ -1,11 +1,15 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Ruh : MonoBehaviour
 {
     Rigidbody2D rigidbody2D;
-    public int speed = 30;
+
+    public float speed = 30f;
+
+    public int number = 0;
 
     public float up = 1f;
 
@@ -38,6 +42,11 @@ public class Ruh : MonoBehaviour
             rigidbody2D.MovePosition(pos);
         }
 
+
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            SceneManager.LoadScene(number);
+        }
         //Jump();
     }
      
